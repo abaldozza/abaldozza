@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🌟 **Information Technology student** at Batangas State University.
+- ![Your Icon]([https://your-image-url.com/icon.png](https://seeklogo.com/images/B/Batangas_State_University-logo-6E3B44ADC9-seeklogo.com.png)) **Information Technology student** at Batangas State University.
 - 🌱 **Full-stack web application developer.**
 
 ---
