@@ -49,5 +49,5 @@
 ---
 
 ## View My Projects
-[![All Projects](https://img.shields.io/badge/All%20Projects-%23121011.svg?style=for-the-badge)](https://github.com/yourusername?tab=repositories)
-[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-%23000000.svg?style=for-the-badge)](https://github.com/yourusername?tab=repositories&type=source)
+[![All Projects](https://img.shields.io/badge/All%20Projects-%23121011.svg?style=for-the-badge)](https://github.com/abaldozza?tab=repositories)
+[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-%23000000.svg?style=for-the-badge)](https://github.com/abaldozza?tab=repositories&type=source)
