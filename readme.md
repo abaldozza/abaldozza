@@ -1,4 +1,4 @@
-# Hi👋, I'm Angel Angel Baldoza
+# Hi👋, I'm Angel Baldoza
 
 ---
 
