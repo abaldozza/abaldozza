@@ -12,7 +12,7 @@
 
 ## About Me
 
-- (https://raw.githubusercontent.com/abaldozza/images/refs/heads/main/batstateu-logo.ico) **Information Technology student** at Batangas State University.
+- ![Batangas State University Icon](https://raw.githubusercontent.com/abaldozza/images/refs/heads/main/batstateu-logo.ico) **Information Technology student** at Batangas State University.
 - 🌱 **Full-stack web application developer.**
 
 ---
