@@ -11,7 +11,7 @@
 
 ## About Me
 
-🌱 **Full-stack software developer.**
+🌱 **Full-Stack Software Developer**
 
 ---
 
