@@ -12,13 +12,13 @@
 
 ## About Me
 
-- 🌱 **Full-stack web application developer.**
+🌱 **Full-stack software developer.**
 
 ---
 
 ## Expertise
 
-### Current Stack
+### Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
