@@ -12,7 +12,6 @@
 
 ## About Me
 
-- <img src="https://raw.githubusercontent.com/abaldozza/images/refs/heads/main/batstateu-logo.ico" alt="Batangas State University Icon" width="20" height="20"> **Information Technology student at Batangas State University** 
 - 🌱 **Full-stack web application developer.**
 
 ---
